@@ -30,3 +30,8 @@ Después de la primera visita, el Service Worker conserva la aplicación para us
 - Eliminado el desplazamiento horizontal.
 - Diseño compacto para teléfono y tableta.
 - Subdivisión de tresillos.
+
+## Novedades v4
+- Rutinas rápidas, entrenador progresivo y pulso interior pasaron a la pestaña Práctica.
+- Práctica ahora se divide en Sesión, Rutinas y Entrenadores.
+- Configuración queda dedicada a Ritmo y Sonido.
