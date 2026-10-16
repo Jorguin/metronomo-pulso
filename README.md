@@ -35,3 +35,9 @@ Después de la primera visita, el Service Worker conserva la aplicación para us
 - Rutinas rápidas, entrenador progresivo y pulso interior pasaron a la pestaña Práctica.
 - Práctica ahora se divide en Sesión, Rutinas y Entrenadores.
 - Configuración queda dedicada a Ritmo y Sonido.
+
+## Corrección v5
+- Entrenamiento está únicamente en Práctica.
+- Configuración contiene únicamente Ritmo y Sonido.
+- Navegación usa actualización en línea para evitar que quede visible una versión antigua.
+- La interfaz muestra v5 para comprobar que la actualización se aplicó.
