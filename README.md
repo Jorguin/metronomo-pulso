@@ -23,3 +23,10 @@ Después de la primera visita, el Service Worker conserva la aplicación para us
 - Diseño responsive optimizado para teléfono y tableta.
 - Consejos de práctica integrados.
 - Caché actualizada a pulso-v2.
+
+## Novedades v3
+- Logo visible en el encabezado.
+- Configuración dividida en Ritmo, Sonido y Entrenamiento.
+- Eliminado el desplazamiento horizontal.
+- Diseño compacto para teléfono y tableta.
+- Subdivisión de tresillos.
