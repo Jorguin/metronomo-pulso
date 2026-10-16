@@ -16,3 +16,10 @@ Creado por Jorguin Cañas.
 - icon-512.png
 
 Después de la primera visita, el Service Worker conserva la aplicación para uso sin conexión.
+
+## Novedades v2
+- Navegación por pestañas: Metrónomo, Práctica y Configuración.
+- Diseño de pantalla completa para reducir el desplazamiento.
+- Diseño responsive optimizado para teléfono y tableta.
+- Consejos de práctica integrados.
+- Caché actualizada a pulso-v2.
