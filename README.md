@@ -41,3 +41,7 @@ Después de la primera visita, el Service Worker conserva la aplicación para us
 - Configuración contiene únicamente Ritmo y Sonido.
 - Navegación usa actualización en línea para evitar que quede visible una versión antigua.
 - La interfaz muestra v5 para comprobar que la actualización se aplicó.
+
+## Corrección v7
+- Se corrigió el controlador de navegación de las pestañas principales y secundarias.
+- Práctica y Configuración vuelven a abrir correctamente en teléfono.
